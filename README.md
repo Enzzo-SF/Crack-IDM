@@ -1,5 +1,6 @@
 #  GIỚI THIỆU VỀ IDM: #
 
+  - [Download bản cài đặt từ trang chủ](https://www.internetdownloadmanager.com/download.html)
   - Có thể tải file nhanh chỉ với một cú click chuột, bao gồm tất cả các file có dung lượng lớn lẫn download video, mp3, mp4...
   - Hỗ trợ tải file siêu tốc trên hầu hết các ứng dụng và trình duyệt phổ biến.
   - Sau khi quá trình tải về hoàn tất thì IDM sẽ tự động kiểm tra virus tự động.
