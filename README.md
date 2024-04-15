@@ -27,7 +27,7 @@
 
 ## Cách 2: ##
 
-- Download Crack IDM từ trang chủ https://github.com/lstprjct/IDM-Activation-Script tìm tới: **Method 2 - Traditional** bấm vào dòng chữ gạch chân: ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/e933ba51-89d7-4f70-bde2-0885f749b2d1)
+- Download Crack IDM từ trang chủ https://github.com/lstprjct/IDM-Activation-Script tìm tới: **Method 2 - Traditional** bấm vào dòng chữ gạch chân: ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/743f5238-74c8-4fac-875c-b940b1319305)
 - Hoặc bấm [vào đây](https://codeload.github.com/lstprjct/IDM-Activation-Script/zip/refs/heads/main)
 - Cài xong thì dùng tool active bằng cmd [bấm vào đây để download](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/Crack_IDM.cmd) hoặc https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/Crack_IDM.cmd
 - Lưu ý: Phải đóng tất cả IDM mới kích hoạt thành công.
