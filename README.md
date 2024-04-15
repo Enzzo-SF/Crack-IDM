@@ -23,7 +23,7 @@
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/cc4df65e-6cc1-47a1-a967-fe19d9983a26)
   - Dán câu lệnh: **irm https://massgrave.dev/ias | iex** vào và nhấn enter.
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/cbb5b6a7-8f33-448b-ae33-5e8e1ce8a360)
-  - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/5455d546-4428-4b21-87e4-9d376f711676)
+  - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/616ffd87-501e-4a6d-a85c-cf38ae23ecf1)
 
 ## Cách 2: ##
 
