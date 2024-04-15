@@ -30,7 +30,7 @@
 - Download Crack IDM từ trang chủ https://github.com/lstprjct/IDM-Activation-Script tìm tới: **Method 2 - Traditional** bấm vào dòng chữ gạch chân: ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/743f5238-74c8-4fac-875c-b940b1319305) hoặc bấm [vào đây](https://codeload.github.com/lstprjct/IDM-Activation-Script/zip/refs/heads/main)
 - Cài xong thì dùng tool active bằng cmd:
   -  IDM-Activation-Script-main V1.2 [bấm vào đây để download](https://xupvsw.bn.files.1drv.com/y4mkTrkLtFVEKJuvB8elzEYqtAlkHUbf1mRKOC8E0iA4Ox4Hqx4G3YuXVOpEHPmb63_WGGCxoQUAp5_cHCjMg9eQNZe4prNBBAeYXDaYNjz0ZXridc4Ua686_Nr3oRR4i-ebZ4H6Q9L_0EBkj2hB0OcLnQ8ezaDPOssznMyBORHsQx0pThRmPZ7QhnuTCZxHAAqOyOno2Ji5HMa9ryCqxMm3A)
-  -  IDM-Activation-Script-main V1.0 [bấm vào đây để download]()   
+  -  IDM-Activation-Script-main V1.0 [bấm vào đây để download](https://vppvsw.bn.files.1drv.com/y4mE4WMMIaHi_eyiELZUyuN8BFO0ebCEddd90EVlJ9syFBEKDfQ9A_tJ_26t5znkmL-jd-S2wUAcbB0X5ONt3k2K7DwSx-DAMOIo-XF4vQS-4p78RdxKRMuEoIq96mYGhX0TWHcg5nIAiD-YQ3VI_nQL6EzVL0aiXf37NK5gGMLme0iU9A6GIJweFKRHXDEJq0AU1DfpKvRNa8wqtcckiCunQ)   
 - ![image](https://user-images.githubusercontent.com/82578024/219615487-fc31fa4f-fdce-427b-b424-474def84c85a.png)
 - Vô file kích hoạt Activation IDM PITVN.cmd bấm chuột phải chọn Run As Ministrator.
 - ![image](https://user-images.githubusercontent.com/82578024/219620340-1fbd1ab1-14ff-43c6-9adb-ac0846d9aa8c.png)
