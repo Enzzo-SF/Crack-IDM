@@ -12,7 +12,7 @@
 
 # THỰC TIỄN: ##
 - Hiện tại 15.4.2024 chỉ crack được phiên bản idman642build6, idman642build7 bị lỗi.
-- 
+- Bấm [vào đây](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build6.exe) để download phiên bản idman642build6
   
 #  KÍCH HOẠT IDM BẰNG TOOL #
 ## Cách 1: ##
