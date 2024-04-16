@@ -12,7 +12,7 @@
 
 #  KÍCH HOẠT IDM BẰNG TOOL #
 
-  Xem video: https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/672ecfbf-2bfd-4593-88d2-4d83286fd54b
+  Xem video: https://1drv.ms/v/s!AmvuvqBBIcK6i3IG-NvoWHiHsG9U?e=isFGBj
 
 ## Cách 1: ##
   - Kích hoạt trực tiếp từ **Windows PowerShell:**
