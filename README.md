@@ -10,10 +10,8 @@
   - Bạn có thể hẹn lịch để tải IDM hoặc hẹn thời gian để khôi phục quá trình tải về và việc còn lại sẽ do IDM giải quyết
   - Hỗ trợ ngôn ngữ tiếng việt và nhiều ngôn ngữ khác nhau.
 
-#  KÍCH HOẠT IDM BẰNG TOOL #
-
-  [Xem video](https://1drv.ms/v/s!AmvuvqBBIcK6i3IG-NvoWHiHsG9U?e=isFGBj)
-
+#  KÍCH HOẠT IDM BẰNG TOOL [Xem video](https://1drv.ms/v/s!AmvuvqBBIcK6i3IG-NvoWHiHsG9U?e=isFGBj) #
+  
 ## Cách 1: ##
   - Kích hoạt trực tiếp từ **Windows PowerShell:**
   - Đầu tiên bấm tổ hợp phiếm: **Windows + R**, sau đó điền **PowerShell** rồi bấm enter.
