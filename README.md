@@ -11,6 +11,9 @@
   - Hỗ trợ ngôn ngữ tiếng việt và nhiều ngôn ngữ khác nhau.
 
 #  KÍCH HOẠT IDM BẰNG TOOL #
+
+  Xem video: https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/672ecfbf-2bfd-4593-88d2-4d83286fd54b
+
 ## Cách 1: ##
   - Kích hoạt trực tiếp từ **Windows PowerShell:**
   - Đầu tiên bấm tổ hợp phiếm: **Windows + R**, sau đó điền **PowerShell** rồi bấm enter.
