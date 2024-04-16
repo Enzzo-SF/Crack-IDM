@@ -12,7 +12,7 @@
 
 #  KÍCH HOẠT IDM BẰNG TOOL #
 
-  Xem video: https://1drv.ms/v/s!AmvuvqBBIcK6i3IG-NvoWHiHsG9U?e=isFGBj
+  [Xem video](https://1drv.ms/v/s!AmvuvqBBIcK6i3IG-NvoWHiHsG9U?e=isFGBj)
 
 ## Cách 1: ##
   - Kích hoạt trực tiếp từ **Windows PowerShell:**
