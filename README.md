@@ -32,9 +32,9 @@
   -  IDM-Activation-Script-main V1.2 [bấm vào đây để download](https://xupvsw.bn.files.1drv.com/y4mkTrkLtFVEKJuvB8elzEYqtAlkHUbf1mRKOC8E0iA4Ox4Hqx4G3YuXVOpEHPmb63_WGGCxoQUAp5_cHCjMg9eQNZe4prNBBAeYXDaYNjz0ZXridc4Ua686_Nr3oRR4i-ebZ4H6Q9L_0EBkj2hB0OcLnQ8ezaDPOssznMyBORHsQx0pThRmPZ7QhnuTCZxHAAqOyOno2Ji5HMa9ryCqxMm3A)
   -  IDM-Activation-Script-main V1.0 [bấm vào đây để download](https://vppvsw.bn.files.1drv.com/y4mE4WMMIaHi_eyiELZUyuN8BFO0ebCEddd90EVlJ9syFBEKDfQ9A_tJ_26t5znkmL-jd-S2wUAcbB0X5ONt3k2K7DwSx-DAMOIo-XF4vQS-4p78RdxKRMuEoIq96mYGhX0TWHcg5nIAiD-YQ3VI_nQL6EzVL0aiXf37NK5gGMLme0iU9A6GIJweFKRHXDEJq0AU1DfpKvRNa8wqtcckiCunQ)   
 - ![image](https://user-images.githubusercontent.com/82578024/219615487-fc31fa4f-fdce-427b-b424-474def84c85a.png)
-- Vô file kích hoạt Activation IDM PITVN.cmd bấm chuột phải chọn Run As Ministrator.
-- ![image](https://user-images.githubusercontent.com/82578024/219620340-1fbd1ab1-14ff-43c6-9adb-ac0846d9aa8c.png)
-- ![image](https://user-images.githubusercontent.com/82578024/219618978-dfd73de8-c1cb-41d3-8d08-339e526f371c.png)
+- Vô file kích hoạt Activation IDM.cmd bấm chuột phải chọn Run As Ministrator.
+  - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/29eb3adb-919d-4898-bee4-9db951bda7f2)
+  - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/61c4fcf6-a9fe-4359-b13c-578dfff6f415)
 - Vào kiểm tra thấy như hình bên dưới là thành công:
 - ![image](https://user-images.githubusercontent.com/82578024/219616425-1856bc05-22ee-4b23-b95e-21c4a90b3a29.png)
 - Khi nó bị lỗi Fake key thì chạy lại file kích hoạt
