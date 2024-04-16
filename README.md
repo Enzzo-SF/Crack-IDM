@@ -37,9 +37,7 @@
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/61c4fcf6-a9fe-4359-b13c-578dfff6f415)
 - Vào kiểm tra thấy như hình bên dưới là thành công:
 - ![image](https://user-images.githubusercontent.com/82578024/219616425-1856bc05-22ee-4b23-b95e-21c4a90b3a29.png)
-- Khi nó bị lỗi Fake key thì chạy lại file kích hoạt
-- ![image](https://user-images.githubusercontent.com/82578024/219040187-e414220b-ccb7-433e-a766-4ff593095389.png)
-- Thay vì bấm phím 1 thì bây giờ bấm phím 2.
+- Khi nó bị lỗi Fake key thì chạy lại file kích hoạt lại từ đầu.
 
 Cài xong mởi IDM lên chỉnh thêm:
 
