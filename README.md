@@ -21,6 +21,7 @@
   - Dán câu lệnh: **irm https://massgrave.dev/ias | iex** vào và nhấn enter.
   - Hoặc câu lệnh:
   - Hoặc câu lệnh:
+    
       ```php
      iwr -useb https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm.ps1 | iex
       ```
