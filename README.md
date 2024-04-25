@@ -19,8 +19,7 @@
   - Dán vào câu lệnh: **CD C:\Windows\System32** rồi enter
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/cc4df65e-6cc1-47a1-a967-fe19d9983a26)
   - Dán câu lệnh: **irm https://massgrave.dev/ias | iex** vào và nhấn enter.
-  - Hoặc câu lệnh:
-  - Hoặc câu lệnh:
+  - Hoặc một trong 2 câu lệnh dưới đây:
     
       ```php
      iwr -useb https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm.ps1 | iex
