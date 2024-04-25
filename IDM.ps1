@@ -6,9 +6,9 @@ $ErrorActionPreference = "Stop"
 
 $DownloadURL = 'https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/IDM.cmd.cmd'
 
-$rand = Get-Random -Maximum 99999999
+$rand = Get-Random -Maximum 1000
 $isAdmin = [bool]([Security.Principal.WindowsIdentity]::GetCurrent().Groups -match 'S-1-5-32-544')
-$FilePath = if ($isAdmin) { "$env:SystemRoot\Temp\IAS_$rand.cmd" } else { "$env:TEMP\IDM_$rand.cmd" }
+$FilePath = if ($isAdmin) { "$env:SystemRoot\Temp\IDM_$rand.cmd" } else { "$env:TEMP\IDM_$rand.cmd" }
 
 try {
     $response = Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing
@@ -21,5 +21,5 @@ Set-Content -Path $FilePath -Value $content
 
 Start-Process $FilePath $ScriptArgs -Wait
 
-$FilePaths = @("$env:TEMP\IAS*.cmd", "$env:SystemRoot\Temp\IAS*.cmd")
+$FilePaths = @("$env:TEMP\IDM*.cmd", "$env:SystemRoot\Temp\IDM*.cmd")
 foreach ($FilePath in $FilePaths) { Get-Item $FilePath | Remove-Item }
