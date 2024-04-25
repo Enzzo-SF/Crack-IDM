@@ -401,18 +401,18 @@ echo:
 echo:
 echo:
 echo:
-echo:             Crack IDM - https://github.com/BsNgChiThanh/Crack-IDM    
-echo:            ________________________________________________________ 
+echo:              Crack IDM - https://github.com/BsNgChiThanh/Crack-IDM  
+echo:            _________________________________________________________ 
 echo:                                                               
 echo:               [1] Freeze Trial
-echo:               [2] Activate
+echo:               [2] Activate ^(Not working^)
 echo:               [3] Reset Activation / Trial
-echo:               ________________________________________________   
+echo:               _________________________________________________   
 echo:                                                               
 echo:               [4] Download IDM
 echo:               [5] Help
 echo:               [0] Exit
-echo:            ________________________________________________________
+echo:            _________________________________________________________
 echo:         
 call :_color2 %_White% "             " %_Green% "Enter a menu option in the Keyboard [1,2,3,4,5,0]"
 choice /C:123450 /N
