@@ -239,7 +239,7 @@ echo:
 call :_color2 %_White% "               [3] Toggle Windows Firewall  " %_col% "[%_status%]"
 echo:               _____________________________________________   
 echo:                                                               
-echo:               [4] ReadMe                                      
+echo:               [4] ReadMe - https://github.com/BsNgChiThanh/Crack-IDM                                      
 echo:               [5] Exit                                        
 echo:            ___________________________________________________
 echo:         
