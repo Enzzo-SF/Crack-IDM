@@ -1,10 +1,10 @@
 # Enable TLSv1.2 for compatibility with older clients
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor [System.Net.SecurityProtocolType]::Tls12
 
-$DownloadURL = 'https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/IDM-1.2.cmd'
+$DownloadURL = 'https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/IDM.cmd'
 
 $rand = Get-Random -Maximum 99999999
-$FilePath = "$env:TEMP\IDM-1.2_$rand.cmd"
+$FilePath = "$env:TEMP\IDM_$rand.cmd"
 
 try {
     Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing -OutFile $FilePath
