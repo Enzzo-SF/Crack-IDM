@@ -21,16 +21,17 @@
   - Dán 1 trong 3 câu lệnh dưới đây:
 
       ```php
-      irm https://massgrave.dev/ias | iex
+     iwr -useb https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm.ps1 | iex
       ```
 
       ```php
-     iwr -useb https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm.ps1 | iex
+      irm https://massgrave.dev/ias | iex
       ```
       
       ```php
       iwr -useb https://raw.githubusercontent.com/ictcentervnn/CMD-WIN-IDM/main/idm.ps1 | iex
       ```
+      
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/cbb5b6a7-8f33-448b-ae33-5e8e1ce8a360)
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/616ffd87-501e-4a6d-a85c-cf38ae23ecf1)
 
