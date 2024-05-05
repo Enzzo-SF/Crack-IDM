@@ -1,4 +1,4 @@
-#  GIỚI THIỆU VỀ IDM: #
+#  GIỚI THIỆU VỀ [IDM](https://github.com/lstprjct/IDM-Activation-Script): #
 
   - [Download bản cài đặt từ trang chủ](https://www.internetdownloadmanager.com/download.html)
   - Có thể tải file nhanh chỉ với một cú click chuột, bao gồm tất cả các file có dung lượng lớn lẫn download video, mp3, mp4...
