@@ -11,7 +11,9 @@
   - Hỗ trợ ngôn ngữ tiếng việt và nhiều ngôn ngữ khác nhau.
 
 #  KÍCH HOẠT IDM BẰNG TOOL [Xem video](https://1drv.ms/v/s!AmvuvqBBIcK6i3IG-NvoWHiHsG9U?e=isFGBj) #
-  
+  - https://github.com/WindowsAddict/IDM-Activation-Script
+  - https://github.com/lstprjct/IDM-Activation-Script
+      
 ## Cách 1: ##
   - Kích hoạt trực tiếp từ **Windows PowerShell:**
   - Đầu tiên bấm tổ hợp phiếm: **Windows + R**, sau đó điền **PowerShell** rồi bấm enter.
