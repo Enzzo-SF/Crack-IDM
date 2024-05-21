@@ -11,6 +11,8 @@
   - Hỗ trợ ngôn ngữ tiếng việt và nhiều ngôn ngữ khác nhau.
 
 # CÁC PHIÊN BẢN IDM #
+  - [idman640build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_640build10.exe)
+  - [idman641build1](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build1.exe)
   - [idman641build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build2.exe)
   - [idman642build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build2.exe)
   - [idman642build3](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build3.exe)
