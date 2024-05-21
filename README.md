@@ -21,7 +21,7 @@
 |5|[idman642build3](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build3.exe)|11|[idman642build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build10.exe)|17|
 |6|[idman642build5](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build5.exe)|12||18|
 
-  - **Nên cài [idman641build1](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build1.exe), kích hoạt xong thì update bản mới nhất thì hạn chế gặp lỗi.**
+  - **Nên cài [idman641build1](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build1.exe), kích hoạt xong thì update bản mới nhất sẽ hạn chế gặp lỗi.**
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/e4243f93-a620-4d92-9e77-d598cfb6c1e8)
 
 #  KÍCH HOẠT IDM BẰNG TOOL [Xem video](https://1drv.ms/v/s!AmvuvqBBIcK6i3IG-NvoWHiHsG9U?e=isFGBj) #
