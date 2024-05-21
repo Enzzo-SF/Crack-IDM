@@ -10,11 +10,11 @@
   - Bạn có thể hẹn lịch để tải IDM hoặc hẹn thời gian để khôi phục quá trình tải về và việc còn lại sẽ do IDM giải quyết
   - Hỗ trợ ngôn ngữ tiếng việt và nhiều ngôn ngữ khác nhau.
 
-# CÁC PHIÊN BẢN IDM #  [idman642build6](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build6.exe)
+# CÁC PHIÊN BẢN IDM #  
 
 |STT|Version|STT|Version|
 |-- |--     |-- |--     |
-|1  |[idman640build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_640build10.exe)|7||
+|1  |[idman640build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_640build10.exe)|7|[idman642build6](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build6.exe)|
 |2|[idman641build1](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build1.exe)|8|[idman642build8](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build8.exe)|
 |3|[idman641build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build2.exe)|9||
 |4|[idman642build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build2.exe)|10|[idman642build7](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build7.exe)|
