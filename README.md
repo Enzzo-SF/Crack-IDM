@@ -16,10 +16,10 @@
 |-- |--     |-- |--     |
 |1  |[idman640build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_640build10.exe)|7||
 |2|[idman641build1](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build1.exe)|8|[idman642build8](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build8.exe)|
-|3|[idman641build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build2.exe)|9|[idman642build5](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build5.exe)|
+|3|[idman641build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build2.exe)|9||
 |4|[idman642build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build2.exe)|10|[idman642build7](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build7.exe)|
 |5|[idman642build3](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build3.exe)|11|[idman642build9](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build9.exe)|
-|6|[idman642build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build10.exe)|12|
+|6|[idman642build5](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build5.exe)|12|[idman642build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build10.exe)
 
 #  KÍCH HOẠT IDM BẰNG TOOL [Xem video](https://1drv.ms/v/s!AmvuvqBBIcK6i3IG-NvoWHiHsG9U?e=isFGBj) #
   - https://github.com/WindowsAddict/IDM-Activation-Script
