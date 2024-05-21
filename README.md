@@ -10,6 +10,16 @@
   - Bạn có thể hẹn lịch để tải IDM hoặc hẹn thời gian để khôi phục quá trình tải về và việc còn lại sẽ do IDM giải quyết
   - Hỗ trợ ngôn ngữ tiếng việt và nhiều ngôn ngữ khác nhau.
 
+# CÁC PHIÊN BẢN IDM #
+  - [idman642build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build2.exe)
+  - [idman642build3](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build3.exe)
+  - [idman642build5](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build5.exe)
+  - [idman642build6](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build6.exe)
+  - [idman642build7](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build7.exe)
+  - [idman642build8](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build8.exe)
+  - [idman642build9](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build9.exe)
+  - [idman642build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build10.exe)
+
 #  KÍCH HOẠT IDM BẰNG TOOL [Xem video](https://1drv.ms/v/s!AmvuvqBBIcK6i3IG-NvoWHiHsG9U?e=isFGBj) #
   - https://github.com/WindowsAddict/IDM-Activation-Script
   - https://github.com/lstprjct/IDM-Activation-Script
