@@ -19,7 +19,7 @@
 |3|[idman641build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build2.exe)|9|[idman642build8](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build8.exe)|15|
 |4|[idman642build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build2.exe)|10|[idman642build9](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build9.exe)|16|
 |5|[idman642build3](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build3.exe)|11|[idman642build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build10.exe)|17|
-|6|[idman642build5](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build5.exe)|12||18|
+|6|[idman642build5](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build5.exe)|12|[idman642build11](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build11.exe)|18|
 
   - **Nên cài [idman641build1](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build1.exe), kích hoạt xong thì update bản mới nhất, sẽ hạn chế gặp lỗi.**
   - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/e4243f93-a620-4d92-9e77-d598cfb6c1e8)
