@@ -14,7 +14,7 @@
 
 |STT|Version|STT|Version|STT|Version|
 |-- |--     |-- |--     |-- |--     |
-|1  |[idman640build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_640build10.exe)|7|[idman642build6](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build6.exe)|13|
+|1  |[idman640build10](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_640build10.exe)|7|[idman642build6](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build6.exe)|13|[idman642build12](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build12.exe)
 |2|[idman641build1](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build1.exe)|8|[idman642build7](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build7.exe)|14|
 |3|[idman641build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idm_641build2.exe)|9|[idman642build8](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build8.exe)|15|
 |4|[idman642build2](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build2.exe)|10|[idman642build9](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman642build9.exe)|16|
