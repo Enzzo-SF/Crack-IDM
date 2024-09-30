@@ -1,5 +1,5 @@
 #  GIỚI THIỆU VỀ [IDM](https://github.com/lstprjct/IDM-Activation-Script): #
-
+   ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
   - [Download bản cài đặt từ trang chủ](https://www.internetdownloadmanager.com/download.html)
   - Có thể tải file nhanh chỉ với một cú click chuột, bao gồm tất cả các file có dung lượng lớn lẫn download video, mp3, mp4...
   - Hỗ trợ tải file siêu tốc trên hầu hết các ứng dụng và trình duyệt phổ biến.
