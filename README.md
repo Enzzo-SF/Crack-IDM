@@ -41,10 +41,6 @@
       ```
 
       ```php
-      irm https://bit.ly/3RtTQJh | iex
-      ```
-
-      ```php
       irm https://massgrave.dev/ias | iex
       ```
       
